@@ -32,7 +32,7 @@ The Dataset is provided by World Bank Group can be found at [Website](https://ww
 # Insights
 
 
-- Total Amount of debt Owed by the Countries listed : `3079734.49`
+- Total Amount of debt Owed by the Countries listed : `3079734.49` (Amount in USD $)
 
 
 - `China`	Owes Highest debt With Amount of `285793494734.20`
