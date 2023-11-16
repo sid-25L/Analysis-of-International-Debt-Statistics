@@ -47,4 +47,4 @@ The Dataset is provided by World Bank Group can be found at [Website](https://ww
    have Lowest Average amount of debt.
 
   
--  Highest amount of Principle repayment Country is `China` and Indicator name is `Principal repayments on external debt, long-term`
+-  Highest amount of Principal repayment Country is `China` and Indicator name is `Principal repayments on external debt, long-term`
