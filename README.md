@@ -27,3 +27,15 @@ In this Project  we are going to analyze international debt data collected by Th
 
 
 The Dataset is provided by World Bank Group can be found at [Website](https://www.worldbank.org/en/programs/debt-statistics/ids#analytical). It contains National, Regional and Topic wise Data.
+
+
+# Insights
+
+
+- Total Amount of debt Owed by the Countries listed : `3079734.49`
+
+
+- `China`	Owes Highest debt With Amount of `285793494734.20`
+- 
+
+- Principal repayments on external debt, long-term (AMT, current US$)	5904868401.499
