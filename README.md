@@ -36,6 +36,15 @@ The Dataset is provided by World Bank Group can be found at [Website](https://ww
 
 
 - `China`	Owes Highest debt With Amount of `285793494734.20`
-- 
+  
+  
+- `Principal repayments on external debt ` has Highest Average amount of debt across all indicator of `5904868401.499` followed by
+  
 
-- Principal repayments on external debt, long-term (AMT, current US$)	5904868401.499
+  `Principal repayments on external debt, private nonguaranteed (PNG)`,`Disbursements on external debt`, long-term and `PPG, bonds`
+
+
+   has Lowest Average amount of debt.
+
+  
+-  Highest amount of Principle repayment Country is `China` and Indicator name is `Principal repayments on external debt, long-term`
