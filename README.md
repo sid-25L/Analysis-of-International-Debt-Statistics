@@ -14,11 +14,16 @@ The World Bank provides loans and grants to the governments of low- and middle-i
 In this Project  we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
 
 
-`-What is the total amount of debt that is owed by the countries listed in the dataset?`
+
+`1. What is the total amount of debt that is owed by the countries listed in the dataset?`
 
 
-`-Which country owns the maximum amount of debt and what does that amount look like?`
+`2. Which country owns the maximum amount of debt and what does that amount look like?`
 
 
-`-What is the average amount of debt owed by countries across different debt indicators?`
+`3. What is the average amount of debt owed by countries across different debt indicators?`
 
+
+
+
+The Dataset is provided by World Bank Group can be found at [Website](https://www.worldbank.org/en/programs/debt-statistics/ids#analytical). It contains National, Regional and Topic wise Data.
